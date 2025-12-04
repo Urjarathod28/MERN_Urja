@@ -1,0 +1,2 @@
+- [x] Wrap the Category Statistics div with a max-width container for centering and limiting width
+- [x] Update the ul grid classes to be responsive (1 column on small, 2 on medium, 3 on large screens)
